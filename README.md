@@ -1,4 +1,4 @@
-# awesome-mvp
+# Awesome MVP
 
 A curated list of resources to help you rapidly test your idea and build your minimum awesome product (MAP) or minimum viable product (MVP).
 
