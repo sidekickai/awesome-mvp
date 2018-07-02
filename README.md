@@ -69,4 +69,3 @@ Tools
 ## Building your MVP
 
 * [How to build an MVP the right way in 2018](https://medium.com/swlh/how-to-build-an-mvp-in-the-right-way-in-2018-f538df0f2bba)
-* 
