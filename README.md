@@ -48,6 +48,9 @@ Guides
 ](https://instapage.com/how-to-create-a-landing-page-chapter-6)
 * [21 Ways to Generate Leads from Your Landing Page
 ](http://www.thestarta.com/articles/managing/21-ways-to-promote-your-landing-page-without-spending-a-dime/)
+
+Tools
+
 * [Google Adwords](https://adwords.google.com/)
 * [Bing Ads](https://secure.bingads.microsoft.com/)
 * [Facebook Ads](https://www.facebook.com/business/)
